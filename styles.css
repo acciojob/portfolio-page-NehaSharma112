@@ -4,9 +4,15 @@
 	margin:0;
 	padding:0;
 }
-a{
+img{
 	border:1px;
 	border-radius:2px;
+}
+h1{
+	font-family: Arial, sans-serif;
+}
+a{
+	color:black;
 }
 #skills{
 	text-align:center;
