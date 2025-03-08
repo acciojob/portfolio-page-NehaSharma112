@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+}
+a{
+	border:1px;
+	border-radius:2px;
+}
+#skills{
+	text-align:center;
+}
+#projects{
+	text-decoration:underline;
+	text-align:center;
+}
